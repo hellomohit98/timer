@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.small-text{
+    font-size: 0.75rem;
+}
+
+.medi-text{
+    font-size: 0.875rem;
+}
+
+.large-text{
+    font-size: 1rem;
+}
+
+.small-text-bold{
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.medi-text-bold{
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+
+.large-text-bold{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.large-header-bold{
+    font-size: 1.25rem;
+    font-weight: 500;
+}
